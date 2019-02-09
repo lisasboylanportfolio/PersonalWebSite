@@ -1,6 +1,6 @@
 #https://lisasboylanportfolio.github.io/about/
-personal_profile website
-Personal Home Page
+
+Personal Home Page Website
 
 Version 1
 Clink olors:
