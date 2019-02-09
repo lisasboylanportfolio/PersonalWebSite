@@ -1,4 +1,4 @@
-#lisasboylanprtfolio/about/github.io
+#https://lisasboylanportfolio.github.io/about/
 personal_profile website
 Personal Home Page
 
