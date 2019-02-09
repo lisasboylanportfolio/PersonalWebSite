@@ -3,7 +3,7 @@
 Personal Home Page Website
 
 Version 1
-Clink olors:
+Colors:
 #FFAF44: used to create background of image
 grey
 white
