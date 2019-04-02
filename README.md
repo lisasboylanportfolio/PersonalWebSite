@@ -1,4 +1,4 @@
-#https://lisasboylanportfolio.github.io/about/
+
 
 Personal Home Page Website
 
@@ -13,4 +13,4 @@ white
    font-family: 'Hind Madurai', sans-serif;
    
 Link:
-https://github.com/lisasboylanportfolio/about.git
+https://lisasboylanportfolio.github.io/PersonalWebSite/
