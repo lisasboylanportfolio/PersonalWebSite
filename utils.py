@@ -4,7 +4,7 @@ import re
 import os.path
 from jinja2 import Template
 
-DEBUG = True
+DEBUG = False
 
 
 #
