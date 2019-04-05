@@ -1,7 +1,6 @@
 
 
 #Personal Website
-
 A personal portfolio and example of programing with:
 
 HTML
