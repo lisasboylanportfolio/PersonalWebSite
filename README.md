@@ -3,14 +3,14 @@
 # Personal Website
 A personal portfolio and example of programing with:
 
-HTML
+  HTML
 
-CSS
+  CSS
 
-Jinja2
+  Jinja2
 
-Python
+  Python
 
 
 To view:
-https://lisasboylanportfolio.github.io/PortfolioJinja2/
+  https://lisasboylanportfolio.github.io/PortfolioJinja2/
