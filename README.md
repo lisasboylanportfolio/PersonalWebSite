@@ -2,15 +2,16 @@
 
 Personal Home Page Website
 
-Version 1
-Colors:
-#FFAF44: used to create background of image and
-grey and
-white
+A personal portfolio and example of programing with:
 
-2 fonts:
-   font-family: 'Raleway', sans-serif; and
-   font-family: 'Hind Madurai', sans-serif;
-   
-Link:
-https://lisasboylanportfolio.github.io/PersonalWebSite/
+HTML
+
+CSS
+
+Jinja2
+
+Python
+
+
+To view:
+https://lisasboylanportfolio.github.io/PortfolioJinja2/
