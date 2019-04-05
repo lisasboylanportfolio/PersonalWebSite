@@ -5,7 +5,9 @@ htmml, body{
   background:url("../img/sandstone.jpg");
   font-family: 'Raleway', sans-serif;
   color: white;
-  font-size: 28px;
+  font-size: 18px;
+  font-weight: 300;
+  font-style: normal;  
 }
 
 a{
@@ -30,11 +32,13 @@ h1.table_header{
   justify-content: flex-end;
 }
 
+.nav_bar_right a:hover{
+  background-color: green;  
+}
 
 .active{
   background-color: yellow;  
 }
-
 
 .vertical-center {
   min-height: 100%;  /* Fallback for browsers do NOT support vh unit */
@@ -86,6 +90,9 @@ h1.table_header{
 .right_col_msg{
   padding-left: 20px;
   overflow: hidden;
+  font-family: 'Cormorant | Handgloves', sans-serif;
+  font-size: 24px;  
+  color: white;  
 }
 
 .titled_table{
@@ -128,9 +135,25 @@ h1.table_header{
 
 /* vertical line */
 .vl {
-  height: 15px;
+  height: 25px;
   width: 100%;
   margin-top: 35px;
   background-image: url('../img/rocks.jpeg');
-  background-size: 100%;  
+  background-size: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.content_main{
+  color:black;
+  background-color: white;
+  margin-left: auto;
+  margin-right: auto;  
+}
+
+.indent_content{
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-left: auto;
+  margin-right: auto;   
 }
